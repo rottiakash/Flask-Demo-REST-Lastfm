@@ -1,0 +1,10 @@
+body{
+    background: url('https://source.unsplash.com/PDX_a_82obo');
+    /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
